@@ -1,0 +1,20 @@
+{
+  "short_name": "Pokedex",
+  "name": "Pokedex made using react",
+  "icons": [
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#3f51b5",
+  "description": "A simple Pokedex made using React.",
+  "dir": "ltr",
+  "lang": "en-US"
+}
