@@ -1,2 +1,1 @@
-# pokedex-game
-Pokedex using react
+My first react app Pokemon-styles
